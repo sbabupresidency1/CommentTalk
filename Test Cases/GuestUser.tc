@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to all pages, try to comment, like, dislike, reply and login navigation</description>
+   <name>GuestUser</name>
+   <tag>Guest</tag>
+   <comment></comment>
+   <testCaseGuid>e82e2267-5f20-4198-8be7-5e34b2342fca</testCaseGuid>
+</TestCaseEntity>
